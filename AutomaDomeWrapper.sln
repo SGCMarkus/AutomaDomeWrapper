@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomaDomeWrapper", "AutomaDomeWrapper\AutomaDomeWrapper.csproj", "{9A0338B8-57F1-4340-977A-7317270AC0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A0338B8-57F1-4340-977A-7317270AC0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0338B8-57F1-4340-977A-7317270AC0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0338B8-57F1-4340-977A-7317270AC0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0338B8-57F1-4340-977A-7317270AC0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4605C57-7436-440D-9693-4C4172680B48}
+	EndGlobalSection
+EndGlobal
